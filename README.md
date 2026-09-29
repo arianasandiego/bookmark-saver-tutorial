@@ -6,3 +6,9 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
 
 - Input Container
 - Bookmark List
+
+2. CSS
+
+- Basic Reset
+- Input Container
+- Bookmark List
