@@ -1,2 +1,8 @@
 # bookmark-saver-tutorial
+
 Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
+
+1. HTML
+
+- Input Container
+- Bookmark List
