@@ -69,7 +69,7 @@ button:hover {
     margin-bottom: 10px;
     display: flex;
     justify-content: space-between;
-    align-items: content;
+    align-items: center;
 }
 
 #bookmark-list a {
